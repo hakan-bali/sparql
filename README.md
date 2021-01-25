@@ -32,7 +32,7 @@ $ git clone https://github.com/hakan-bali/sparql.git
 ```
 Proceed to the project directory.
 ```
-$ cd checkout
+$ cd sparql
 ```
 Gradle will download all required dependencies, build the project, and run the project with the command below:
 ```
